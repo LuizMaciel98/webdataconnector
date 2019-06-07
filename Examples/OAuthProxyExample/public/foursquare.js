@@ -8,9 +8,9 @@
   // See part II. of this tutorial for an example of how
   // to do a server-side OAuth flow and avoid this problem
   var config = {
-      clientId: 'YOUR_CLIENT_ID',
+      clientId: 'local.5cf85374837866.46452596',
       redirectUri: 'http://localhost:3333/redirect',
-      authUrl: 'https://foursquare.com/',
+      authUrl: 'https://inpulso.bitrix24.com.br/',
       version: '20190102'
   };
 

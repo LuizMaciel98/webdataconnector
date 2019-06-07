@@ -4,7 +4,7 @@
 module.exports = {
  'HOSTPATH': 'http://localhost',
  'PORT': 3333,
- 'CLIENT_ID': 'YOUR_CLIENT_ID',
- 'CLIENT_SECRET': 'YOUR_CLIENT_SECRET',
+ 'CLIENT_ID': 'local.5cf85374837866.46452596',
+ 'CLIENT_SECRET': '3NLJVfSzOVp6kwZd8MaSBFqjeIJkMzKEzu36N5EzLb68dzc2tr',
  'REDIRECT_PATH': '/redirect'
 };
